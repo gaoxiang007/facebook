@@ -1,6 +1,7 @@
 
 
 // https://oj.leetcode.com/problems/n-queens/
+// http://answer.ninechapter.com/solutions/n-queens/
 
 class Solution {
 public:
